@@ -1,0 +1,132 @@
+[
+  {
+    "package": ".",
+    "name": "AllowIPManager",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "BasicItem",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "BlockIPManager",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Config",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "DenyIPManager",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Device",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "EmailConfig",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Filepath",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "GeoLite2",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "GeoLite2Config",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "IP",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "IPGuardian",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "New",
+    "kind": "func"
+  },
+  {
+    "package": ".",
+    "name": "IPGuardianResult",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "IPItem",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "IS",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Location",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Log",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Logger",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Manager",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Parameter",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "Redis",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "RiskScore",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "ScoreItem",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "ScoreResult",
+    "kind": "type"
+  },
+  {
+    "package": ".",
+    "name": "ScoreTask",
+    "kind": "type"
+  }
+]
