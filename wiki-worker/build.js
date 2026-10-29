@@ -6,7 +6,7 @@ const { Parse } = require("@pardnchiu/nanomd");
 const TEMPLATE_VERSION = "7.2.1"; // wiki-generate template version; see scripts/templates/CHANGELOG.md
 
 // === Site config — filled in by wiki-generate when this template is copied into a project ===
-const SITE_NAME = "pardnchiu/go-ip-sentry";
+const SITE_NAME = "go-ip-sentry";
 const DOMAIN = "https://go-ip-sentry.pardn.io";
 const REPO = "pardnchiu/go-ip-sentry"; // owner/repo
 const AUTHOR_NAME = "邱敬幃 Pardn Chiu";
